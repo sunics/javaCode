@@ -6,7 +6,7 @@ public class calc
         a=20;
         b=45;
         int c=a+b;
-        System.out.println("Sum of "+a+" and "+b+" is "+c);
+        System.out.println("Sum of "+a+" and "+b+" is "+c)
     }
 
 }

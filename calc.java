@@ -8,6 +8,7 @@ public class calc
         int c=a+b;
         System.out.println("Sum of "+a+" and "+b+" is "+c);
         System.out.println("Product of the numbers is "+a*b);
+        System.out.println("this is last Update");
     }
 
 }

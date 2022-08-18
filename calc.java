@@ -7,7 +7,7 @@ public class calc
         b=45;
         int c=a+b;
         System.out.println("Sum of "+a+" and "+b+" is "+c);
-        System.out.println("Product of the numbers is "+a*b);
+        System.out.println("Product of the numbers is "+a*b
         
     }
 
